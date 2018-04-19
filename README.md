@@ -3,7 +3,7 @@ NodeMCU data acquisition with ThingSpeak integration IoT. Batch update supported
 
 https://thingspeak.com/channels/332349
 
-Features :
+Fonctionnement :
 
 • En appuyant sur le bouton de droite, une demande de départ du mode point d'accès
 est sollicitée.
